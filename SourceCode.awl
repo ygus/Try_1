@@ -1,6 +1,6 @@
 function SmartPIDFB
 input
-
+    var1
 end_var
 
 output
