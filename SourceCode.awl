@@ -11,6 +11,8 @@ Begin
 
 if then ; end_if;
 
+operator 1
+operator 2
 
 ;
 end_function
